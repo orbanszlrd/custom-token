@@ -1,0 +1,9 @@
+{
+  "name": "custom-token",
+  "version": "1.0.0",
+  "description": "Custom ERC20 Token",
+  "main": "index.js",
+  "repository": "git@github.com:orbanszlrd/custom-token.git",
+  "author": "Szilard Orban",
+  "license": "MIT"
+}
