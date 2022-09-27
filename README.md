@@ -1,6 +1,6 @@
-# Custom Token
+# Custom ERC20 Token
 
-Custom ERC20 Token
+Create your own custom ERC20 Token
 
 ## Prerequisites
 
@@ -91,7 +91,6 @@ For test coverage you need to install the [solidity-coverage](https://www.npmjs.
 npm run coverage
 ```
 
-
 ## Further Help
 
 [Alchemy - The Web3 Development Platform](https://alchemy.com/?r=7b980bb14402be0b)  
@@ -102,5 +101,5 @@ npm run coverage
 [MetaMask - A Crypto Wallet & Gateway to Blockchain Apps](https://metamask.io/)  
 [MetaMask Docs - Getting Started](https://docs.metamask.io)  
 [OpenZeppelin - The Standard for Secure Blockchain Applications](https://www.openzeppelin.com/)  
-[OpenZeppelin - Documentation](https://docs.openzeppelin.com/)
+[OpenZeppelin - Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)  
 [Solidity - Programming Language for Implementing Smart Contracts](https://docs.soliditylang.org/)  
