@@ -95,7 +95,7 @@ npm run coverage
 
 [Alchemy - The Web3 Development Platform](https://alchemy.com/?r=7b980bb14402be0b)  
 [Ethereum - Technology Powering the Cryptocurrency Ether](https://ethereum.org/)  
-[Ethereum Improvement Proposals - ERC](https://eips.ethereum.org/erc)  
+[Ethereum Improvement Proposals - EIP-20: Token Standard](https://eips.ethereum.org/EIPS/eip-20)  
 [Etherscan - The Ethereum Blockchain Explorer](https://etherscan.io/)  
 [Ganache - Personal Blockchain for Ethereum development](https://trufflesuite.com/ganache/)  
 [Hardhat - Ethereum Development Environment for Professionals](https://hardhat.org/)  
